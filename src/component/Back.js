@@ -11,7 +11,7 @@ export default function Back({ navigation: { goBack } }) {
                 />
             </TouchableOpacity>
             <Image
-                source={require('../../assets/taxisst-logo-transparent.png')}
+                source={require('../../assets/logo-transparent.png')}
                 style={styles.logo}
             />
         </View>

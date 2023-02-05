@@ -22,7 +22,7 @@ const SplashScreen = ({navigation}) => {
                 <Animatable.Image
                     animation="bounceIn"
                     duraton="1500"
-                    source={require('../../assets/taxisst-logo-transparent.png')}
+                    source={require('../../assets/logo-transparent.png')}
                     style={styles.logo}
                     resizeMode="stretch"
                 />
